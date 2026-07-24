@@ -8,7 +8,7 @@ Local reverse proxy instance for use with docker and other dev stacks. Functiona
 
     ```bash
     cd /path/to/project
-    git clone https://github.com/ia-eknorr/traefik-reverse-proxy.git .
+    git clone https://github.com/etknorr/traefik-reverse-proxy.git .
     ```
 
 2. Spin up the Traefik Reverse Proxy:
